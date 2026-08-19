@@ -1,11 +1,5 @@
-import React from 'react'
-
 const ATS = () => {
-  return (
-    <div>
-      
-    </div>
-  )
-}
+  return <div></div>;
+};
 
-export default ATS
+export default ATS;
